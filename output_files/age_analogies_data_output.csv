@@ -1,0 +1,201 @@
+A,B,C,Expected,Category,Prompt,Model_Output,Correct
+old,older,young,younger,Age (Comparative Adjectives),"
+Complete the analogy.
+
+old is to older as young is to ____.
+
+Respond with ONE word only.
+Answer:
+",younger,True
+young,younger,old,older,Age (Comparative Adjectives),"
+Complete the analogy.
+
+young is to younger as old is to ____.
+
+Respond with ONE word only.
+Answer:
+",older,True
+new,newer,old,older,Age (Comparative Adjectives),"
+Complete the analogy.
+
+new is to newer as old is to ____.
+
+Respond with ONE word only.
+Answer:
+",older,True
+old,older,new,newer,Age (Comparative Adjectives),"
+Complete the analogy.
+
+old is to older as new is to ____.
+
+Respond with ONE word only.
+Answer:
+",new,False
+early,earlier,late,later,Age (Comparative Adjectives),"
+Complete the analogy.
+
+early is to earlier as late is to ____.
+
+Respond with ONE word only.
+Answer:
+",later,True
+late,later,early,earlier,Age (Comparative Adjectives),"
+Complete the analogy.
+
+late is to later as early is to ____.
+
+Respond with ONE word only.
+Answer:
+",early,False
+old,oldest,young,youngest,Age (Superlative Adjectives),"
+Complete the analogy.
+
+old is to oldest as young is to ____.
+
+Respond with ONE word only.
+Answer:
+",youngest,True
+young,youngest,old,oldest,Age (Superlative Adjectives),"
+Complete the analogy.
+
+young is to youngest as old is to ____.
+
+Respond with ONE word only.
+Answer:
+",oldest,True
+new,newest,old,oldest,Age (Superlative Adjectives),"
+Complete the analogy.
+
+new is to newest as old is to ____.
+
+Respond with ONE word only.
+Answer:
+",oldest,True
+old,oldest,new,newest,Age (Superlative Adjectives),"
+Complete the analogy.
+
+old is to oldest as new is to ____.
+
+Respond with ONE word only.
+Answer:
+",new,False
+early,earliest,late,latest,Age (Superlative Adjectives),"
+Complete the analogy.
+
+early is to earliest as late is to ____.
+
+Respond with ONE word only.
+Answer:
+",lateliest,False
+late,latest,early,earliest,Age (Superlative Adjectives),"
+Complete the analogy.
+
+late is to latest as early is to ____.
+
+Respond with ONE word only.
+Answer:
+",early,False
+infant,adult,boy,man,Age (Human Life Stages),"
+Complete the analogy.
+
+infant is to adult as boy is to ____.
+
+Respond with ONE word only.
+Answer:
+",man,True
+infant,adult,girl,woman,Age (Human Life Stages),"
+Complete the analogy.
+
+infant is to adult as girl is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+child,adult,boy,man,Age (Human Life Stages),"
+Complete the analogy.
+
+child is to adult as boy is to ____.
+
+Respond with ONE word only.
+Answer:
+",man,True
+child,adult,girl,woman,Age (Human Life Stages),"
+Complete the analogy.
+
+child is to adult as girl is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+toddler,adult,boy,man,Age (Human Life Stages),"
+Complete the analogy.
+
+toddler is to adult as boy is to ____.
+
+Respond with ONE word only.
+Answer:
+",man,True
+toddler,adult,girl,woman,Age (Human Life Stages),"
+Complete the analogy.
+
+toddler is to adult as girl is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+teenager,adult,boy,man,Age (Human Life Stages),"
+Complete the analogy.
+
+teenager is to adult as boy is to ____.
+
+Respond with ONE word only.
+Answer:
+",man,True
+teenager,adult,girl,woman,Age (Human Life Stages),"
+Complete the analogy.
+
+teenager is to adult as girl is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+youth,elder,boy,man,Age (Human Life Stages),"
+Complete the analogy.
+
+youth is to elder as boy is to ____.
+
+Respond with ONE word only.
+Answer:
+",man,True
+youth,elder,girl,woman,Age (Human Life Stages),"
+Complete the analogy.
+
+youth is to elder as girl is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+infant,adult,child,senior,Age (Human Life Stages),"
+Complete the analogy.
+
+infant is to adult as child is to ____.
+
+Respond with ONE word only.
+Answer:
+",adult,False
+child,adult,infant,senior,Age (Human Life Stages),"
+Complete the analogy.
+
+child is to adult as infant is to ____.
+
+Respond with ONE word only.
+Answer:
+",toddler,False
+toddler,adult,teenager,senior,Age (Human Life Stages),"
+Complete the analogy.
+
+toddler is to adult as teenager is to ____.
+
+Respond with ONE word only.
+Answer:
+",adult,False
