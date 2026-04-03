@@ -1,0 +1,1169 @@
+A,B,C,Expected,Category,Prompt,Model_Output,Correct
+Word 1,Word 2,Word 3,Word 4,Category,"
+Complete the analogy.
+
+Word 1 is to Word 2 as Word 3 is to ____.
+
+Respond with ONE word only.
+Answer:
+",word,False
+boy,girl,brother,sister,Gender (Nuclear Family),"
+Complete the analogy.
+
+boy is to girl as brother is to ____.
+
+Respond with ONE word only.
+Answer:
+",sister,True
+boy,girl,dad,mom,Gender (Nuclear Family),"
+Complete the analogy.
+
+boy is to girl as dad is to ____.
+
+Respond with ONE word only.
+Answer:
+",mom,True
+boy,girl,father,mother,Gender (Nuclear Family),"
+Complete the analogy.
+
+boy is to girl as father is to ____.
+
+Respond with ONE word only.
+Answer:
+",mother,True
+boy,girl,grandfather,grandmother,Gender (Extended Family),"
+Complete the analogy.
+
+boy is to girl as grandfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",granddaughter,False
+boy,girl,grandpa,grandma,Gender (Extended Family),"
+Complete the analogy.
+
+boy is to girl as grandpa is to ____.
+
+Respond with ONE word only.
+Answer:
+",grandma,True
+boy,girl,grandson,granddaughter,Gender (Extended Family),"
+Complete the analogy.
+
+boy is to girl as grandson is to ____.
+
+Respond with ONE word only.
+Answer:
+",granddaughter,True
+boy,girl,husband,wife,Gender (Nuclear Family),"
+Complete the analogy.
+
+boy is to girl as husband is to ____.
+
+Respond with ONE word only.
+Answer:
+",wife,True
+boy,girl,man,woman,Gender (Core),"
+Complete the analogy.
+
+boy is to girl as man is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+boy,girl,nephew,niece,Gender (Extended Family),"
+Complete the analogy.
+
+boy is to girl as nephew is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,True
+boy,girl,son,daughter,Gender (Nuclear Family),"
+Complete the analogy.
+
+boy is to girl as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+boy,girl,stepbrother,stepsister,Gender (Step-family),"
+Complete the analogy.
+
+boy is to girl as stepbrother is to ____.
+
+Respond with ONE word only.
+Answer:
+",sister,False
+boy,girl,stepfather,stepmother,Gender (Step-family),"
+Complete the analogy.
+
+boy is to girl as stepfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",mother,False
+boy,girl,stepson,stepdaughter,Gender (Step-family),"
+Complete the analogy.
+
+boy is to girl as stepson is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+boy,girl,uncle,aunt,Gender (Extended Family),"
+Complete the analogy.
+
+boy is to girl as uncle is to ____.
+
+Respond with ONE word only.
+Answer:
+",aunt,True
+boy,girl,groom,bride,Gender (Titles & Roles),"
+Complete the analogy.
+
+boy is to girl as groom is to ____.
+
+Respond with ONE word only.
+Answer:
+",bride,True
+brother,sister,dad,mom,Gender (Nuclear Family),"
+Complete the analogy.
+
+brother is to sister as dad is to ____.
+
+Respond with ONE word only.
+Answer:
+",mom,True
+brother,sister,father,mother,Gender (Nuclear Family),"
+Complete the analogy.
+
+brother is to sister as father is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+brother,sister,grandfather,grandmother,Gender (Extended Family),"
+Complete the analogy.
+
+brother is to sister as grandfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",granddaughter,False
+brother,sister,grandpa,grandma,Gender (Extended Family),"
+Complete the analogy.
+
+brother is to sister as grandpa is to ____.
+
+Respond with ONE word only.
+Answer:
+",granddaughter,False
+brother,sister,grandson,granddaughter,Gender (Extended Family),"
+Complete the analogy.
+
+brother is to sister as grandson is to ____.
+
+Respond with ONE word only.
+Answer:
+",granddaughter,True
+brother,sister,husband,wife,Gender (Nuclear Family),"
+Complete the analogy.
+
+brother is to sister as husband is to ____.
+
+Respond with ONE word only.
+Answer:
+",wife,True
+brother,sister,man,woman,Gender (Core),"
+Complete the analogy.
+
+brother is to sister as man is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+brother,sister,nephew,niece,Gender (Extended Family),"
+Complete the analogy.
+
+brother is to sister as nephew is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,True
+brother,sister,son,daughter,Gender (Nuclear Family),"
+Complete the analogy.
+
+brother is to sister as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+brother,sister,stepbrother,stepsister,Gender (Step-family),"
+Complete the analogy.
+
+brother is to sister as stepbrother is to ____.
+
+Respond with ONE word only.
+Answer:
+",sister,False
+brother,sister,stepfather,stepmother,Gender (Step-family),"
+Complete the analogy.
+
+brother is to sister as stepfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+brother,sister,stepson,stepdaughter,Gender (Step-family),"
+Complete the analogy.
+
+brother is to sister as stepson is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+brother,sister,uncle,aunt,Gender (Extended Family),"
+Complete the analogy.
+
+brother is to sister as uncle is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,False
+brother,sister,groom,bride,Gender (Titles & Roles),"
+Complete the analogy.
+
+brother is to sister as groom is to ____.
+
+Respond with ONE word only.
+Answer:
+",bride,True
+brother,sister,king,queen,Gender (Titles & Roles),"
+Complete the analogy.
+
+brother is to sister as king is to ____.
+
+Respond with ONE word only.
+Answer:
+",queen,True
+dad,mom,father,mother,Gender (Nuclear Family),"
+Complete the analogy.
+
+dad is to mom as father is to ____.
+
+Respond with ONE word only.
+Answer:
+",mother,True
+dad,mom,grandfather,grandmother,Gender (Extended Family),"
+Complete the analogy.
+
+dad is to mom as grandfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",grandmother,True
+dad,mom,grandpa,grandma,Gender (Extended Family),"
+Complete the analogy.
+
+dad is to mom as grandpa is to ____.
+
+Respond with ONE word only.
+Answer:
+",grandma,True
+dad,mom,grandson,granddaughter,Gender (Extended Family),"
+Complete the analogy.
+
+dad is to mom as grandson is to ____.
+
+Respond with ONE word only.
+Answer:
+",granddaughter,True
+dad,mom,husband,wife,Gender (Nuclear Family),"
+Complete the analogy.
+
+dad is to mom as husband is to ____.
+
+Respond with ONE word only.
+Answer:
+",wife,True
+dad,mom,man,woman,Gender (Core),"
+Complete the analogy.
+
+dad is to mom as man is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+dad,mom,nephew,niece,Gender (Extended Family),"
+Complete the analogy.
+
+dad is to mom as nephew is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,True
+dad,mom,son,daughter,Gender (Nuclear Family),"
+Complete the analogy.
+
+dad is to mom as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+dad,mom,stepbrother,stepsister,Gender (Step-family),"
+Complete the analogy.
+
+dad is to mom as stepbrother is to ____.
+
+Respond with ONE word only.
+Answer:
+",stepsister,True
+dad,mom,stepfather,stepmother,Gender (Step-family),"
+Complete the analogy.
+
+dad is to mom as stepfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",mother,False
+dad,mom,stepson,stepdaughter,Gender (Step-family),"
+Complete the analogy.
+
+dad is to mom as stepson is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+dad,mom,uncle,aunt,Gender (Extended Family),"
+Complete the analogy.
+
+dad is to mom as uncle is to ____.
+
+Respond with ONE word only.
+Answer:
+",aunt,True
+dad,mom,groom,bride,Gender (Titles & Roles),"
+Complete the analogy.
+
+dad is to mom as groom is to ____.
+
+Respond with ONE word only.
+Answer:
+",bride,True
+dad,mom,king,queen,Gender (Titles & Roles),"
+Complete the analogy.
+
+dad is to mom as king is to ____.
+
+Respond with ONE word only.
+Answer:
+",queen,True
+dad,mom,policeman,policewoman,Gender (Titles & Roles),"
+Complete the analogy.
+
+dad is to mom as policeman is to ____.
+
+Respond with ONE word only.
+Answer:
+",policewoman,True
+father,mother,grandfather,grandmother,Gender (Extended Family),"
+Complete the analogy.
+
+father is to mother as grandfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",grandmother,True
+father,mother,grandpa,grandma,Gender (Extended Family),"
+Complete the analogy.
+
+father is to mother as grandpa is to ____.
+
+Respond with ONE word only.
+Answer:
+",grandmother,False
+father,mother,grandson,granddaughter,Gender (Extended Family),"
+Complete the analogy.
+
+father is to mother as grandson is to ____.
+
+Respond with ONE word only.
+Answer:
+",granddaughter,True
+father,mother,husband,wife,Gender (Nuclear Family),"
+Complete the analogy.
+
+father is to mother as husband is to ____.
+
+Respond with ONE word only.
+Answer:
+",wife,True
+father,mother,man,woman,Gender (Core),"
+Complete the analogy.
+
+father is to mother as man is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+father,mother,nephew,niece,Gender (Extended Family),"
+Complete the analogy.
+
+father is to mother as nephew is to ____.
+
+Respond with ONE word only.
+Answer:
+",aunt,False
+father,mother,son,daughter,Gender (Nuclear Family),"
+Complete the analogy.
+
+father is to mother as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+father,mother,stepbrother,stepsister,Gender (Step-family),"
+Complete the analogy.
+
+father is to mother as stepbrother is to ____.
+
+Respond with ONE word only.
+Answer:
+",sister,False
+father,mother,stepfather,stepmother,Gender (Step-family),"
+Complete the analogy.
+
+father is to mother as stepfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",mother,False
+father,mother,stepson,stepdaughter,Gender (Step-family),"
+Complete the analogy.
+
+father is to mother as stepson is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+father,mother,uncle,aunt,Gender (Extended Family),"
+Complete the analogy.
+
+father is to mother as uncle is to ____.
+
+Respond with ONE word only.
+Answer:
+",aunt,True
+father,mother,groom,bride,Gender (Titles & Roles),"
+Complete the analogy.
+
+father is to mother as groom is to ____.
+
+Respond with ONE word only.
+Answer:
+",bride,True
+father,mother,king,queen,Gender (Titles & Roles),"
+Complete the analogy.
+
+father is to mother as king is to ____.
+
+Respond with ONE word only.
+Answer:
+",queen,True
+father,mother,policeman,policewoman,Gender (Titles & Roles),"
+Complete the analogy.
+
+father is to mother as policeman is to ____.
+
+Respond with ONE word only.
+Answer:
+",policewoman,True
+father,mother,prince,princess,Gender (Titles & Roles),"
+Complete the analogy.
+
+father is to mother as prince is to ____.
+
+Respond with ONE word only.
+Answer:
+",princess,True
+grandfather,grandmother,grandpa,grandma,Gender (Extended Family),"
+Complete the analogy.
+
+grandfather is to grandmother as grandpa is to ____.
+
+Respond with ONE word only.
+Answer:
+",grandma,True
+grandfather,grandmother,grandson,granddaughter,Gender (Extended Family),"
+Complete the analogy.
+
+grandfather is to grandmother as grandson is to ____.
+
+Respond with ONE word only.
+Answer:
+",granddaughter,True
+grandfather,grandmother,husband,wife,Gender (Nuclear Family),"
+Complete the analogy.
+
+grandfather is to grandmother as husband is to ____.
+
+Respond with ONE word only.
+Answer:
+",wife,True
+grandfather,grandmother,man,woman,Gender (Core),"
+Complete the analogy.
+
+grandfather is to grandmother as man is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+grandfather,grandmother,nephew,niece,Gender (Extended Family),"
+Complete the analogy.
+
+grandfather is to grandmother as nephew is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,True
+grandfather,grandmother,son,daughter,Gender (Nuclear Family),"
+Complete the analogy.
+
+grandfather is to grandmother as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+grandfather,grandmother,stepbrother,stepsister,Gender (Step-family),"
+Complete the analogy.
+
+grandfather is to grandmother as stepbrother is to ____.
+
+Respond with ONE word only.
+Answer:
+",sister,False
+grandfather,grandmother,stepfather,stepmother,Gender (Step-family),"
+Complete the analogy.
+
+grandfather is to grandmother as stepfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",mother,False
+grandfather,grandmother,stepson,stepdaughter,Gender (Step-family),"
+Complete the analogy.
+
+grandfather is to grandmother as stepson is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+grandfather,grandmother,uncle,aunt,Gender (Extended Family),"
+Complete the analogy.
+
+grandfather is to grandmother as uncle is to ____.
+
+Respond with ONE word only.
+Answer:
+",aunt,True
+grandfather,grandmother,groom,bride,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandfather is to grandmother as groom is to ____.
+
+Respond with ONE word only.
+Answer:
+",bride,True
+grandfather,grandmother,king,queen,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandfather is to grandmother as king is to ____.
+
+Respond with ONE word only.
+Answer:
+",queen,True
+grandfather,grandmother,policeman,policewoman,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandfather is to grandmother as policeman is to ____.
+
+Respond with ONE word only.
+Answer:
+",policewoman,True
+grandfather,grandmother,prince,princess,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandfather is to grandmother as prince is to ____.
+
+Respond with ONE word only.
+Answer:
+",princess,True
+grandfather,grandmother,boy,girl,Gender (Core),"
+Complete the analogy.
+
+grandfather is to grandmother as boy is to ____.
+
+Respond with ONE word only.
+Answer:
+",girl,True
+grandpa,grandma,grandson,granddaughter,Gender (Extended Family),"
+Complete the analogy.
+
+grandpa is to grandma as grandson is to ____.
+
+Respond with ONE word only.
+Answer:
+",granddaughter,True
+grandpa,grandma,husband,wife,Gender (Nuclear Family),"
+Complete the analogy.
+
+grandpa is to grandma as husband is to ____.
+
+Respond with ONE word only.
+Answer:
+",wife,True
+grandpa,grandma,man,woman,Gender (Core),"
+Complete the analogy.
+
+grandpa is to grandma as man is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+grandpa,grandma,nephew,niece,Gender (Extended Family),"
+Complete the analogy.
+
+grandpa is to grandma as nephew is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,True
+grandpa,grandma,son,daughter,Gender (Nuclear Family),"
+Complete the analogy.
+
+grandpa is to grandma as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+grandpa,grandma,stepbrother,stepsister,Gender (Step-family),"
+Complete the analogy.
+
+grandpa is to grandma as stepbrother is to ____.
+
+Respond with ONE word only.
+Answer:
+",sister,False
+grandpa,grandma,stepfather,stepmother,Gender (Step-family),"
+Complete the analogy.
+
+grandpa is to grandma as stepfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",mother,False
+grandpa,grandma,stepson,stepdaughter,Gender (Step-family),"
+Complete the analogy.
+
+grandpa is to grandma as stepson is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+grandpa,grandma,uncle,aunt,Gender (Extended Family),"
+Complete the analogy.
+
+grandpa is to grandma as uncle is to ____.
+
+Respond with ONE word only.
+Answer:
+",aunt,True
+grandpa,grandma,groom,bride,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandpa is to grandma as groom is to ____.
+
+Respond with ONE word only.
+Answer:
+",bride,True
+grandpa,grandma,king,queen,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandpa is to grandma as king is to ____.
+
+Respond with ONE word only.
+Answer:
+",queen,True
+grandpa,grandma,policeman,policewoman,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandpa is to grandma as policeman is to ____.
+
+Respond with ONE word only.
+Answer:
+",policewoman,True
+grandpa,grandma,prince,princess,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandpa is to grandma as prince is to ____.
+
+Respond with ONE word only.
+Answer:
+",princess,True
+grandpa,grandma,boy,girl,Gender (Core),"
+Complete the analogy.
+
+grandpa is to grandma as boy is to ____.
+
+Respond with ONE word only.
+Answer:
+",girl,True
+grandpa,grandma,brother,sister,Gender (Nuclear Family),"
+Complete the analogy.
+
+grandpa is to grandma as brother is to ____.
+
+Respond with ONE word only.
+Answer:
+",sister,True
+grandson,granddaughter,husband,wife,Gender (Nuclear Family),"
+Complete the analogy.
+
+grandson is to granddaughter as husband is to ____.
+
+Respond with ONE word only.
+Answer:
+",wife,True
+grandson,granddaughter,man,woman,Gender (Core),"
+Complete the analogy.
+
+grandson is to granddaughter as man is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+grandson,granddaughter,nephew,niece,Gender (Extended Family),"
+Complete the analogy.
+
+grandson is to granddaughter as nephew is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,True
+grandson,granddaughter,son,daughter,Gender (Nuclear Family),"
+Complete the analogy.
+
+grandson is to granddaughter as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+grandson,granddaughter,stepbrother,stepsister,Gender (Step-family),"
+Complete the analogy.
+
+grandson is to granddaughter as stepbrother is to ____.
+
+Respond with ONE word only.
+Answer:
+",stepsister,True
+grandson,granddaughter,stepfather,stepmother,Gender (Step-family),"
+Complete the analogy.
+
+grandson is to granddaughter as stepfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+grandson,granddaughter,stepson,stepdaughter,Gender (Step-family),"
+Complete the analogy.
+
+grandson is to granddaughter as stepson is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+grandson,granddaughter,uncle,aunt,Gender (Extended Family),"
+Complete the analogy.
+
+grandson is to granddaughter as uncle is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,False
+grandson,granddaughter,groom,bride,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandson is to granddaughter as groom is to ____.
+
+Respond with ONE word only.
+Answer:
+",bride,True
+grandson,granddaughter,king,queen,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandson is to granddaughter as king is to ____.
+
+Respond with ONE word only.
+Answer:
+",queen,True
+grandson,granddaughter,policeman,policewoman,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandson is to granddaughter as policeman is to ____.
+
+Respond with ONE word only.
+Answer:
+",officer,False
+grandson,granddaughter,prince,princess,Gender (Titles & Roles),"
+Complete the analogy.
+
+grandson is to granddaughter as prince is to ____.
+
+Respond with ONE word only.
+Answer:
+",princess,True
+grandson,granddaughter,boy,girl,Gender (Core),"
+Complete the analogy.
+
+grandson is to granddaughter as boy is to ____.
+
+Respond with ONE word only.
+Answer:
+",girl,True
+grandson,granddaughter,brother,sister,Gender (Nuclear Family),"
+Complete the analogy.
+
+grandson is to granddaughter as brother is to ____.
+
+Respond with ONE word only.
+Answer:
+",sister,True
+grandson,granddaughter,dad,mom,Gender (Nuclear Family),"
+Complete the analogy.
+
+grandson is to granddaughter as dad is to ____.
+
+Respond with ONE word only.
+Answer:
+",son,False
+husband,wife,man,woman,Gender (Core),"
+Complete the analogy.
+
+husband is to wife as man is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+husband,wife,nephew,niece,Gender (Extended Family),"
+Complete the analogy.
+
+husband is to wife as nephew is to ____.
+
+Respond with ONE word only.
+Answer:
+",uncle,False
+husband,wife,son,daughter,Gender (Nuclear Family),"
+Complete the analogy.
+
+husband is to wife as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+husband,wife,stepbrother,stepsister,Gender (Step-family),"
+Complete the analogy.
+
+husband is to wife as stepbrother is to ____.
+
+Respond with ONE word only.
+Answer:
+",sister,False
+husband,wife,stepfather,stepmother,Gender (Step-family),"
+Complete the analogy.
+
+husband is to wife as stepfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",mother,False
+husband,wife,stepson,stepdaughter,Gender (Step-family),"
+Complete the analogy.
+
+husband is to wife as stepson is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+husband,wife,uncle,aunt,Gender (Extended Family),"
+Complete the analogy.
+
+husband is to wife as uncle is to ____.
+
+Respond with ONE word only.
+Answer:
+",aunt,True
+husband,wife,king,queen,Gender (Titles & Roles),"
+Complete the analogy.
+
+husband is to wife as king is to ____.
+
+Respond with ONE word only.
+Answer:
+",queen,True
+husband,wife,policeman,policewoman,Gender (Titles & Roles),"
+Complete the analogy.
+
+husband is to wife as policeman is to ____.
+
+Respond with ONE word only.
+Answer:
+",officer,False
+husband,wife,prince,princess,Gender (Titles & Roles),"
+Complete the analogy.
+
+husband is to wife as prince is to ____.
+
+Respond with ONE word only.
+Answer:
+",princess,True
+man,woman,nephew,niece,Gender (Extended Family),"
+Complete the analogy.
+
+man is to woman as nephew is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,True
+man,woman,son,daughter,Gender (Nuclear Family),"
+Complete the analogy.
+
+man is to woman as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+man,woman,stepbrother,stepsister,Gender (Step-family),"
+Complete the analogy.
+
+man is to woman as stepbrother is to ____.
+
+Respond with ONE word only.
+Answer:
+",sister,False
+man,woman,stepfather,stepmother,Gender (Step-family),"
+Complete the analogy.
+
+man is to woman as stepfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",mother,False
+man,woman,stepson,stepdaughter,Gender (Step-family),"
+Complete the analogy.
+
+man is to woman as stepson is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+man,woman,uncle,aunt,Gender (Extended Family),"
+Complete the analogy.
+
+man is to woman as uncle is to ____.
+
+Respond with ONE word only.
+Answer:
+",aunt,True
+man,woman,policeman,policewoman,Gender (Titles & Roles),"
+Complete the analogy.
+
+man is to woman as policeman is to ____.
+
+Respond with ONE word only.
+Answer:
+",policewoman,True
+man,woman,prince,princess,Gender (Titles & Roles),"
+Complete the analogy.
+
+man is to woman as prince is to ____.
+
+Respond with ONE word only.
+Answer:
+",princess,True
+man,woman,boy,girl,Gender (Core),"
+Complete the analogy.
+
+man is to woman as boy is to ____.
+
+Respond with ONE word only.
+Answer:
+",girl,True
+man,woman,brother,sister,Gender (Nuclear Family),"
+Complete the analogy.
+
+man is to woman as brother is to ____.
+
+Respond with ONE word only.
+Answer:
+",sister,True
+stepbrother,stepsister,stepfather,stepmother,Gender (Step-family),"
+Complete the analogy.
+
+stepbrother is to stepsister as stepfather is to ____.
+
+Respond with ONE word only.
+Answer:
+",stepmom,False
+stepbrother,stepsister,stepson,stepdaughter,Gender (Step-family),"
+Complete the analogy.
+
+stepbrother is to stepsister as stepson is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+stepfather,stepmother,stepson,stepdaughter,Gender (Step-family),"
+Complete the analogy.
+
+stepfather is to stepmother as stepson is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,False
+stepson,stepdaughter,uncle,aunt,Gender (Step-family),"
+Complete the analogy.
+
+stepson is to stepdaughter as uncle is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,False
+stepbrother,stepsister,uncle,aunt,Gender (Step-family),"
+Complete the analogy.
+
+stepbrother is to stepsister as uncle is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,False
+king,queen,man,woman,Gender (Titles & Roles),"
+Complete the analogy.
+
+king is to queen as man is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+king,queen,policeman,policewoman,Gender (Titles & Roles),"
+Complete the analogy.
+
+king is to queen as policeman is to ____.
+
+Respond with ONE word only.
+Answer:
+",officer,False
+king,queen,prince,princess,Gender (Titles & Roles),"
+Complete the analogy.
+
+king is to queen as prince is to ____.
+
+Respond with ONE word only.
+Answer:
+",princess,True
+king,queen,son,daughter,Gender (Titles & Roles),"
+Complete the analogy.
+
+king is to queen as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+policeman,policewoman,prince,princess,Gender (Titles & Roles),"
+Complete the analogy.
+
+policeman is to policewoman as prince is to ____.
+
+Respond with ONE word only.
+Answer:
+",princess,True
+policeman,policewoman,son,daughter,Gender (Titles & Roles),"
+Complete the analogy.
+
+policeman is to policewoman as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+prince,princess,son,daughter,Gender (Titles & Roles),"
+Complete the analogy.
+
+prince is to princess as son is to ____.
+
+Respond with ONE word only.
+Answer:
+",daughter,True
+groom,bride,husband,wife,Gender (Titles & Roles),"
+Complete the analogy.
+
+groom is to bride as husband is to ____.
+
+Respond with ONE word only.
+Answer:
+",wife,True
+groom,bride,king,queen,Gender (Titles & Roles),"
+Complete the analogy.
+
+groom is to bride as king is to ____.
+
+Respond with ONE word only.
+Answer:
+",queen,True
+groom,bride,man,woman,Gender (Titles & Roles),"
+Complete the analogy.
+
+groom is to bride as man is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+he,she,his,her,Gender (Pronouns),"
+Complete the analogy.
+
+he is to she as his is to ____.
+
+Respond with ONE word only.
+Answer:
+",her,True
+he,she,husband,wife,Gender (Pronouns),"
+Complete the analogy.
+
+he is to she as husband is to ____.
+
+Respond with ONE word only.
+Answer:
+",wife,True
+he,she,king,queen,Gender (Pronouns),"
+Complete the analogy.
+
+he is to she as king is to ____.
+
+Respond with ONE word only.
+Answer:
+",queen,True
+he,she,man,woman,Gender (Pronouns),"
+Complete the analogy.
+
+he is to she as man is to ____.
+
+Respond with ONE word only.
+Answer:
+",woman,True
+he,she,nephew,niece,Gender (Pronouns),"
+Complete the analogy.
+
+he is to she as nephew is to ____.
+
+Respond with ONE word only.
+Answer:
+",niece,True
